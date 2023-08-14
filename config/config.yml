@@ -1,0 +1,9 @@
+app:
+  name: 'weather-bot'
+  version: '1.0.0'
+
+  telegram_token: ""
+  weather_token: ""
+
+logger:
+  log_level: 'debug'
